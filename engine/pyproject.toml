@@ -13,7 +13,7 @@ engine = [
     "opentelemetry-sdk>=1.45.2",
     "pgvector>=0.5.0",
     "posthog>=7.53.0",
-    "psycopg[binary,pool]>=3.3.6",
+    "psycopg[binary,pool]>=3.3.9",
     "pydantic>=2.13.5",
     # Keep the supported 1.x API while including its security backports.
     # Explicit extras: the `pydantic-ai` meta-package pulls all 20 providers (~230MB).
