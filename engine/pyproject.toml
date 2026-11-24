@@ -12,7 +12,7 @@ engine = [
     "fastapi>=0.162.2",
     "opentelemetry-sdk>=1.45.2",
     "pgvector>=0.5.0",
-    "posthog>=7.53.0",
+    "posthog>=7.91.4",
     "psycopg[binary,pool]>=3.3.6",
     "pydantic>=2.13.5",
     # Keep the supported 1.x API while including its security backports.
